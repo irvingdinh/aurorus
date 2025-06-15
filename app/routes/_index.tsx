@@ -1,5 +1,5 @@
+import { Text } from "../components/catalyst/text";
+
 export default function Index() {
-  return (
-    <p>Lorem ipsum dolor sit amet</p>
-  );
+  return <Text>Lorem ipsum dolor sit amet</Text>;
 }
